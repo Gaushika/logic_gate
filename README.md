@@ -1,5 +1,5 @@
 # logic_gate
-
+```
 AIM:
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 Equipments Required:
@@ -30,7 +30,6 @@ Procedure
 PROGRAM
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
-```
 module Gate_1 (
     input  wire a,     // Input A
     input  wire b,     // Input B
@@ -53,8 +52,6 @@ module Gate_1 (
 
 endmodule
 
-```
-
 
 Developed by: Gaushika RR
 RegisterNumber: 25017292
@@ -62,3 +59,4 @@ Logic symbol & Truthtable
 RTL realization Output:
 RTL
 Result: Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
+```
